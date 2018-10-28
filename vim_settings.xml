@@ -27,12 +27,19 @@
         <mark key="^" line="42" column="113" />
         <mark key="." line="42" column="113" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" timestamp="1540718096955">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="20" column="12" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" timestamp="1540720610073">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/CountingValleys/package.scala" timestamp="1540720641457">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemSumParser.scala" timestamp="1538898840932">
         <mark key="[" line="42" column="36" />
@@ -228,6 +235,9 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1540720433832">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/work/EventSink/test.json" timestamp="1538224520845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="869" />
@@ -287,14 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="8" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
-      <jump line="7" column="9" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
-      <jump line="22" column="5" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
-      <jump line="28" column="17" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/io/ktor/samples/jackson/JacksonApplication.kt" />
-      <jump line="16" column="31" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
-      <jump line="22" column="24" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
       <jump line="34" column="13" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/Converter.scala" />
@@ -381,52 +383,60 @@
       <jump line="335" column="2" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
       <jump line="19" column="5" filename="D:/code/hwork/ACMPractice/hackerrank/Practice/Interview Preparation Kit/Warm-up Challenges/Sock Merchant.scala" />
       <jump line="8" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
-      <jump line="0" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
       <jump line="17" column="31" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
       <jump line="18" column="50" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
       <jump line="22" column="26" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
       <jump line="182" column="11" filename="D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PrintWriter.java" />
       <jump line="19" column="12" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="40" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="14" column="5" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="0" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="16" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="15" column="3" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="33" column="1" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/CountingValleys/package.scala" />
+      <jump line="1" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/CountingValleys/package.scala" />
+      <jump line="23" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/SockMerchant/Solution.scala" />
+      <jump line="19" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/CountingValleys/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3lzLmVudigiT1VUUFVUX1BBVEgiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>println(</text>
+        <text>9, Array(10,20,20,10,10,30,50,10,20)</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
-      <register name="0" type="4">
-        <text>OUTPUT_PATH</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdERhdGEoKTogVW5pdCA9IHsKICAgIHByaW50bG4oc29ja01lcmNoYW50KDksIEFycmF5KDEwLDIwLDIwLDEwLDEwLDMwLDUwLDEwLDIwKSkpCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3lzLmVudigiT1VUUFVUX1BBVEgiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN5cy5lbnYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDEwMAo=</text>
+        <text encoding="base64">cGFja2FnZSBoYWNrZXJyYW5rLlByYWN0aWNlLkludGVydmlld1ByZXBhcmF0aW9uS2l0Lldhcm11cENoYWxsZW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICovCiAgICBwcmludGxuKCJJIGFtIGhlcmUiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWFwLnZhbHVlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhY2tlcnJhbmsuUHJhY3RpY2UuSW50ZXJ2aWV3UHJlcGFyYXRpb25LaXQuV2FybXVwQ2hhbGxlbmdlcy5Tb2NrTWVyY2hhbnQK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc29ja01lcmNoYW50KDksIEFycmF5KDEwIDIwIDIwIDEwIDEwIDMwIDUwIDEwIDIwKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNvY2tNZXJjaGFudAo=</text>
+        <text encoding="base64">ICAgIG1hcCArPSAxMCAtPiAxMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RDpcY29kZVxod29ya1xBQ01QcmFjdGljZVxzcmNcbWFpblxzY2FsYVxoYWNrZXJyYW5rXFByYWN0aWNlXEludGVydmlld1ByZXBhcmF0aW9uS2l0XFdhcm11cENoYWxsZW5nZXNcU29ja01lcmNoYW50Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihtYXAuZ2V0KDEwMCkpCi8vICAgIG1hcC5wdXQoMTAwLCAxMCkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
@@ -469,7 +479,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -489,6 +499,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
