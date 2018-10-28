@@ -75,6 +75,13 @@
         <mark key="[" line="443" column="15" />
         <mark key="]" line="443" column="94" />
       </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/RepeatedString/Solution.scala" timestamp="1540732777232">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+      </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/operators/HbaseRecover.scala" timestamp="1539158828027">
         <mark key="'" line="52" column="10" />
         <mark key="[" line="51" column="0" />
@@ -110,6 +117,12 @@
       </file>
       <file name="D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PrintWriter.java" timestamp="1540718035929">
         <mark key="'" line="182" column="11" />
+      </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" timestamp="1540734184654">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/work/fordeal-search/fordeal-job/src/main/java/com/fordeal/job/task/sort/Score20FunctionHandler.java" timestamp="1540369218271">
         <mark key="[" line="286" column="39" />
@@ -185,11 +198,28 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/JumpingOnTheClouds/Solution.scala" timestamp="1540731734678">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="5" />
+      </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" timestamp="1540733849041">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ReaderUtils.kt" timestamp="1538129492784">
         <mark key="[" line="8" column="66" />
         <mark key="]" line="8" column="66" />
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
+      </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/2DArrayDS/Solution.scala" timestamp="1540732721269">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+        <mark key="^" line="0" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1539173678567">
         <mark key="'" line="26" column="0" />
@@ -242,8 +272,10 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540722695569">
+      <file name="/Dummy.txt" timestamp="1540734350825">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/test.json" timestamp="1538224520845">
         <mark key="[" line="0" column="0" />
@@ -299,7 +331,7 @@
         <mark key="." line="90" column="9" />
         <mark key="^" line="90" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1540379530279">
+      <file name="/fragment.java" timestamp="1540731684592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/CountingValleys/Solution.scala" timestamp="1540722999617">
@@ -311,18 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="57" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
-      <jump line="28" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
-      <jump line="34" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
-      <jump line="45" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
-      <jump line="13" column="18" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
-      <jump line="6" column="27" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
-      <jump line="5" column="6" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
-      <jump line="7" column="7" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
-      <jump line="30" column="12" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
-      <jump line="42" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
       <jump line="45" column="5" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
       <jump line="4" column="22" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
       <jump line="36" column="25" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
@@ -411,46 +431,58 @@
       <jump line="20" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/JumpingOnTheClouds/package.scala" />
       <jump line="16" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/JumpingOnTheClouds/package.scala" />
       <jump line="22" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/JumpingOnTheClouds/package.scala" />
+      <jump line="20" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
+      <jump line="15" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/RepeatedString/Solution.scala" />
+      <jump line="42" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
+      <jump line="22" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
+      <jump line="38" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
+      <jump line="16" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
+      <jump line="21" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
+      <jump line="48" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
+      <jump line="18" column="32" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
+      <jump line="15" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
+      <jump line="40" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
+      <jump line="23" column="3" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/LeftRotation/Solution.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiRwb3MgJGNudCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">MkQgQXJyYXkgLSBEUyA=</text>
       </register>
       <register name="-" type="4">
-        <text>.indexOf</text>
+        <text encoding="base64">MkQgQXJyYXkgLSBEUyA=</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
-      <register name="0" type="4">
-        <text>c.indexOf(pos)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICghc3lzLmVudi5rZXlTZXQuY29udGFpbnMoIk9VVFBVVF9QQVRIIikpIHsKICAgICAgdGVzdERhdGEoKQogICAgICByZXR1cm4KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiRwb3MgJGNudCIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYS5sZW5ndGggLSBkKQogICAgcHJpbnRsbihhLnNsaWNlKGQsIGEubGVuZ3RoKS50b1NlcSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihjLmluZGV4T2YocG9zKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYygyKSkK</text>
+        <text encoding="base64">ICAgIC8vICAgIHByaW50bG4oaG91cmdsYXNzU3VtKCJhYmEiLCAxMCkpCiAgICAvLyAgICBwcmludGxuKHJlcGVhdGVkU3RyaW5nKCJhIiwgMTAwMDAwMDAwMDAwMEwpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYykK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaG91cmdsYXNzU3VtKEFycmF5KAogICAgICBBcnJheSgxLDEsMSwwLDAsMCksCiAgICAgIEFycmF5KDAsMSwwLDAsMCwwKSwKICAgICAgQXJyYXkoMSwxLDEsMCwwLDApLAogICAgICBBcnJheSgwLDAsMiw0LDQsMCksCiAgICAgIEFycmF5KDAsMCwwLDIsMCwwKSwKICAgICAgQXJyYXkoMCwwLDEsMiw0LDApCiAgICApKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhFUkUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYocG9zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
