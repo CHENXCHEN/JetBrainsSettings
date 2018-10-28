@@ -1,0 +1,465 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.5.0/784a58515da2194a2e74666e8d53d50fac8c03/flink-streaming-java_2.11-1.5.0-sources.jar!/org/apache/flink/streaming/api/windowing/triggers/ProcessingTimeTrigger.java" timestamp="1539247787288">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.5.0/784a58515da2194a2e74666e8d53d50fac8c03/flink-streaming-java_2.11-1.5.0-sources.jar!/org/apache/flink/streaming/api/windowing/triggers/CountTrigger.java" timestamp="1539241778037">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/KafkaToLocal.scala" timestamp="1540195160668">
+        <mark key="[" line="139" column="42" />
+        <mark key="]" line="139" column="58" />
+        <mark key="." line="139" column="58" />
+        <mark key="^" line="139" column="58" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1538126644654">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="125" column="54" />
+        <mark key="." line="125" column="54" />
+        <mark key="^" line="125" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1538332249768">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" timestamp="1540380306289">
+        <mark key="'" line="353" column="2" />
+        <mark key="[" line="144" column="46" />
+        <mark key="]" line="144" column="59" />
+        <mark key="." line="144" column="59" />
+        <mark key="^" line="144" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/FrontCatParser.scala" timestamp="1538121380703">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="120" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemSumParser.scala" timestamp="1538898840932">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="38" />
+        <mark key="." line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" timestamp="1540382622339">
+        <mark key="'" line="309" column="70" />
+        <mark key="[" line="344" column="31" />
+        <mark key="]" line="344" column="41" />
+        <mark key="." line="344" column="31" />
+        <mark key="^" line="58" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/utils/ScoreConstant.java" timestamp="1540298523599">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ShopParser.scala" timestamp="1539005585949">
+        <mark key="'" line="27" column="84" />
+        <mark key="[" line="22" column="67" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="43" column="78" />
+        <mark key="^" line="42" column="115" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.5.0/a7e21dd55a81f70087e0fe380af01765d0fdf69c/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/windowing/triggers/ProcessingTimeTrigger.class" timestamp="1539241038626">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="44" column="8" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.5.0/784a58515da2194a2e74666e8d53d50fac8c03/flink-streaming-java_2.11-1.5.0-sources.jar!/org/apache/flink/streaming/api/datastream/KeyedStream.java" timestamp="1539086215908">
+        <mark key="[" line="443" column="15" />
+        <mark key="]" line="443" column="94" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/KafkaToHdfs.scala" timestamp="1540192896013">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="83" column="6" />
+        <mark key="^" line="84" column="5" />
+        <mark key="." line="84" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/KafkaToHbase.scala" timestamp="1539311827468">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" timestamp="1539175612443">
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="82" column="29" />
+        <mark key="." line="82" column="29" />
+        <mark key="^" line="82" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/BackCatParser.scala" timestamp="1538195156930">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="120" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ReaderUtils.kt" timestamp="1538129492784">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score22FunctionHandler.java" timestamp="1540384632240" />
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/TimeOrCountTrigger.scala" timestamp="1539262870613">
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/job.conf" timestamp="1539312550415">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ParserPool.scala" timestamp="1539261858744">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/work/BigdataScratch/src/main/scala/GlobalWindowDemo.scala" timestamp="1538989631833">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/BackCatParserTest.scala" timestamp="1538226464806">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/test.json" timestamp="1538224520845">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="869" />
+        <mark key="." line="0" column="869" />
+        <mark key="^" line="0" column="869" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/build.gradle.kts" timestamp="1538990465049">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="47" column="54" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/FrontCatParserTest.scala" timestamp="1538226692356">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" timestamp="1538226744052">
+        <mark key="'" line="90" column="19" />
+        <mark key="[" line="251" column="33" />
+        <mark key="]" line="251" column="32" />
+        <mark key="." line="251" column="32" />
+        <mark key="^" line="251" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-job/src/main/java/com/fordeal/job/task/sort/Score20FunctionHandler.java" timestamp="1540369218271">
+        <mark key="[" line="286" column="39" />
+        <mark key="]" line="286" column="38" />
+        <mark key="." line="286" column="38" />
+        <mark key="^" line="286" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/CountTrigger.scala" timestamp="1539241843772">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="42" column="114" />
+        <mark key="]" line="42" column="113" />
+        <mark key="^" line="42" column="113" />
+        <mark key="." line="42" column="113" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ParserConstants.scala" timestamp="1538226883426">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/Parser.scala" timestamp="1539174009145">
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="78" />
+        <mark key="." line="32" column="78" />
+        <mark key="^" line="32" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" timestamp="1539230684662">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="90" column="10" />
+        <mark key="]" line="90" column="9" />
+        <mark key="." line="90" column="9" />
+        <mark key="^" line="90" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score21FunctionHandler.java" timestamp="1540384198179">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/ShopParserTest.scala" timestamp="1538221968300">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="92" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/ItemSumParserTest.scala" timestamp="1539226550106">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.5.0/a7e21dd55a81f70087e0fe380af01765d0fdf69c/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/windowing/triggers/CountTrigger.class" timestamp="1539240889812">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="56" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" timestamp="1538223869666">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/operators/HbaseRecover.scala" timestamp="1539158828027">
+        <mark key="'" line="52" column="10" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="97" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1539173678567">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemParser.scala" timestamp="1539005588020">
+        <mark key="'" line="32" column="54" />
+        <mark key="[" line="28" column="68" />
+        <mark key="]" line="28" column="95" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="54" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1540312272883">
+        <mark key="'" line="434" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/AdEffectReader.kt" timestamp="1539226682088">
+        <mark key="[" line="36" column="57" />
+        <mark key="]" line="36" column="62" />
+        <mark key="." line="36" column="62" />
+        <mark key="^" line="36" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1539242241170">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="142" column="72" />
+        <mark key="]" line="142" column="71" />
+        <mark key="^" line="142" column="71" />
+        <mark key="." line="142" column="71" />
+      </file>
+      <file name="/fragment.java" timestamp="1540379530279">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="4" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/Converter.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/CommandOptionParser.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/CommandOptionParser.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/CommandOptionParser.scala" />
+      <jump line="22" column="13" filename="$USER_HOME$/code/work/EventSink/job.conf" />
+      <jump line="7" column="19" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemSumParser.scala" />
+      <jump line="33" column="58" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemSumParser.scala" />
+      <jump line="10" column="16" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="11" column="8" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="7" column="9" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="22" column="5" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="28" column="17" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/io/ktor/samples/jackson/JacksonApplication.kt" />
+      <jump line="16" column="31" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/Main.kt" />
+      <jump line="22" column="24" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
+      <jump line="34" column="13" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/common/Converter.scala" />
+      <jump line="17" column="6" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
+      <jump line="11" column="17" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
+      <jump line="7" column="57" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Converter.kt" />
+      <jump line="28" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="34" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="45" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="13" column="18" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="6" column="27" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
+      <jump line="5" column="6" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="7" column="7" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="30" column="12" filename="$USER_HOME$/code/work/HbaseReaderService/build.gradle" />
+      <jump line="42" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="45" column="5" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="4" column="22" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="36" column="25" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="6" column="23" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="57" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="38" column="28" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
+      <jump line="28" column="4" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/HbaseHandle.kt" />
+      <jump line="62" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="90" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="89" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="19" column="23" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="40" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" />
+      <jump line="21" column="27" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/HBaseHandle.kt" />
+      <jump line="10" column="33" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/Env.kt" />
+      <jump line="95" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="4" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+      <jump line="108" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+      <jump line="27" column="84" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ShopParser.scala" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/BackCatParser.scala" />
+      <jump line="101" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+      <jump line="46" column="34" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/AdEffectReader.kt" />
+      <jump line="46" column="38" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/BackCatReader.kt" />
+      <jump line="46" column="38" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/FrontCatReader.kt" />
+      <jump line="9" column="62" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/ItemReader.kt" />
+      <jump line="97" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="105" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="74" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/work/EventSink/test.json" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/work/EventSink/test.json" />
+      <jump line="5" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" />
+      <jump line="65" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/BackCatParserTest.scala" />
+      <jump line="16" column="19" filename="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/work/EventSink/test.json" />
+      <jump line="78" column="18" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
+      <jump line="100" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
+      <jump line="73" column="39" filename="$USER_HOME$/code/work/EventSink/src/main/scala/KafkaToHbase.scala" />
+      <jump line="32" column="54" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemParser.scala" />
+      <jump line="15" column="6" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ParserPool.scala" />
+      <jump line="7" column="33" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
+      <jump line="88" column="28" filename="$USER_HOME$/code/work/EventSink/src/main/scala/KafkaToHbase.scala" />
+      <jump line="54" column="10" filename="$USER_HOME$/code/work/EventSink/src/main/scala/operators/HbaseRecover.scala" />
+      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" />
+      <jump line="29" column="33" filename="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/TimeOrCountTrigger.scala" />
+      <jump line="93" column="19" filename="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/CountTrigger.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/CountTrigger.scala" />
+      <jump line="29" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/work/EventSink/src/main/scala/trigger/TimeOrCountTrigger.scala" />
+      <jump line="58" column="122" filename="$USER_HOME$/code/work/EventSink/src/main/scala/operators/HbaseSink.scala" />
+      <jump line="60" column="121" filename="$USER_HOME$/code/work/EventSink/src/main/scala/operators/HbaseSink.scala" />
+      <jump line="41" column="28" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" />
+      <jump line="299" column="16" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" />
+      <jump line="60" column="51" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" />
+      <jump line="307" column="70" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" />
+      <jump line="65" column="52" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+      <jump line="95" column="36" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+      <jump line="434" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="117" column="12" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+      <jump line="335" column="2" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/TestScoreFunctionHandler.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>LinkedList</text>
+      </register>
+      <register name="-" type="4">
+        <text>LinkedList</text>
+      </register>
+      <register name="/" type="4">
+        <text>start</text>
+      </register>
+      <register name="0" type="4">
+        <text>LinkedList</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdJdGVtcy5zb3J0KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmltcG9ydCBjb20uZm9yZGVhbC5jb25zb2xlLm1hcHBlci5JdGVtc1Njb3Jlc0NvbmZpZ3NNYXBwZXI7CmltcG9ydCBjb20uZm9yZGVhbC5jb25zb2xlLm1hcHBlci5JdGVtc1NvcnRDb25maWdzTWFwcGVyOwppbXBvcnQgY29tLmZvcmRlYWwuY29uc29sZS51dGlscy5TY29yZUNvbnN0YW50OwppbXBvcnQgY29tLmZvcmRlYWwubW9kZWwuSXRlbXM7CmltcG9ydCBjb20uZm9yZGVhbC5tb2RlbC5JdGVtc1Njb3Jlc0NvbmZpZ3M7CmltcG9ydCBjb20uZm9yZGVhbC5tb2RlbC5JdGVtc1NvcnRDb25maWdzOwppbXBvcnQgY29tLmZvcmRlYWwubW9kZWwuc29sci5JdGVtc1NvbHI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyOwppbXBvcnQgb3JnLnNsZjRqLkxvZ2dlckZhY3Rvcnk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29tcG9uZW50OwoKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZExvY2FsUmFuZG9tOwppbXBvcnQgamF2YS50aW1lLio7CgppbXBvcnQgamF2YXguYW5ub3RhdGlvbi5SZXNvdXJjZTsKaW1wb3J0IGphdmEudXRpbC4qOwoKLyoqCiAqIHNjb3JlXzHnpLrkvosKICoKICogQGF1dGhvciB6eWxfNQogKi8KQENvbXBvbmVudApwdWJsaWMgY2xhc3MgVGVzdFNjb3JlRnVuY3Rpb25IYW5kbGVyIGltcGxlbWVudHMgU2NvcmVGdW5jdGlvbkhhbmRsZXIgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihUZXN0U2NvcmVGdW5jdGlvbkhhbmRsZXIuY2xhc3MpOwogICAgLyoKICAgIHByaXZhdGUgc3RhdGljIEludGVnZXJbXSB3Zkl0ZW1JZHMgPSB7CiAgICB9OwogICAgQFJlc291cmNlCiAgICBwcml2YXRlIFNjb3JlSGFuZGxlclV0aWwgc2NvcmVIYW5kbGVyVXRpbDsKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBJdGVtc1Njb3Jlc0NvbmZpZ3NNYXBwZXIgaXRlbXNTY29yZXNDb25maWdzTWFwcGVyOwogICAgQFJlc291cmNlCiAgICBwcml2YXRlIEl0ZW1zU29ydENvbmZpZ3NNYXBwZXIgaXRlbXNTb3J0Q29uZmlnc01hcHBlcjsKICAgICovCgogICAgcHVibGljIHN0YXRpYyB2b2lkIHRlc3Q5KEludGVnZXIgeCkgewogICAgICAgIC0teDsKICAgICAgICByZXR1cm47CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIGFyZ3NbXSkgewogICAgICAgIFRlc3RTY29yZUZ1bmN0aW9uSGFuZGxlciB0ZXN0U2NvcmVGdW5jdGlvbkhhbmRsZXIgPSBuZXcgVGVzdFNjb3JlRnVuY3Rpb25IYW5kbGVyKCk7CiAgICAgICAgdGVzdFNjb3JlRnVuY3Rpb25IYW5kbGVyLnRlc3QoKTsKICAgIH0KCiAgICBwcml2YXRlIE1hcDxTdHJpbmcsIE9iamVjdD4gZ2V0VmFsaWRNeUl0ZW0oTGlzdDxNeUl0ZW0+IGl0ZW1zLCBNYXA8SW50ZWdlciwgT2JqZWN0PiBtYXAsIEludGVnZXIgaikgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbXlNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgd2hpbGUgKGogPCBpdGVtcy5zaXplKCkpIHsKICAgICAgICAgICAgaWYgKG1hcC5nZXQoaXRlbXMuZ2V0KGopLmdldElkKCkpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIE15SXRlbSBteUl0ZW0xID0gaXRlbXMuZ2V0KGopOwogICAgICAgICAgICAgICAgbWFwLnB1dChteUl0ZW0xLmdldElkKCksIHRydWUpOwogICAgICAgICAgICAgICAgbXlNYXAucHV0KCJpdGVtIiwgbXlJdGVtMSk7CiAgICAgICAgICAgICAgICArK2o7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICArK2o7CiAgICAgICAgfQogICAgICAgIG15TWFwLnB1dCgiaW5kZXgiLCBqKTsKICAgICAgICByZXR1cm4gbXlNYXA7CiAgICB9CgogICAgcHJpdmF0ZSBMaXN0PEl0ZW1zPiBjb252ZXJ0KExpc3Q8SXRlbXNTb2xyPiBzb3VyY2UpIHsKICAgICAgICBMaXN0PEl0ZW1zPiBsaXN0ID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgIENhbFNjb3JlSGFuZGxlclV0aWwuY29udmVydEl0ZW1zRnJvbUl0ZW1Tb2xyKHNvdXJjZSwgbGlzdCk7CiAgICAgICAgcmV0dXJuIGxpc3Q7CiAgICB9CgogICAgcHJpdmF0ZSBpbnQgZG9JdGVtcyhMaXN0PE15SXRlbT4gbmV3SXRlbXMsIE1hcDxJbnRlZ2VyLCBPYmplY3Q+IG1hcCwgaW50IGosIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gcmVzLCBpbnQgbWF4U2NvcmUpIHsKICAgICAgICB3aGlsZSAoaiA8IG5ld0l0ZW1zLnNpemUoKSkgewogICAgICAgICAgICBNeUl0ZW0gbXlJdGVtID0gbmV3SXRlbXMuZ2V0KGopOwogICAgICAgICAgICBpbnQgZmxhZyA9IDA7CiAgICAgICAgICAgIGlmIChtYXAuZ2V0KG15SXRlbS5nZXRJZCgpKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBtYXAucHV0KG15SXRlbS5nZXRJZCgpLCB0cnVlKTsKICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVzSXRlbSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgIHJlc0l0ZW0ucHV0KCJpZCIsIG15SXRlbS5nZXRJZCgpKTsKICAgICAgICAgICAgICAgIHJlc0l0ZW0ucHV0KFNjb3JlQ29uc3RhbnQuU0NPUkVfMjEsIG1heFNjb3JlKTsKICAgICAgICAgICAgICAgIHJlcy5hZGQocmVzSXRlbSk7CiAgICAgICAgICAgICAgICBmbGFnID0gMTsKICAgICAgICAgICAgICAgIG1heFNjb3JlIC09IDEwOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChteUl0ZW0uZ2V0SWQoKSA9PSA2NjAwNDIgfHwgbXlJdGVtLmdldElkKCkgPT0gNjU4ODQ5KSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiW3Njb3JlMjFdOiBpZDogIiArIG15SXRlbS5nZXRJZCgpICsgIiBzY29yZTogIiArIG15SXRlbS5nZXRTY29yZSgpICsgIiBmbGFnOiAiICsgZmxhZyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgKytqOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbWF4U2NvcmU7CiAgICB9CgogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkJlZ2luIHJhbmQgaXRlbSBhbmQgc2NvcmUiKTsKICAgICAgICBpbnQgY250MSA9IDAsIGkgPSAwLCBqID0gMCwgayA9IDA7CiAgICAgICAgTGlzdDxNeUl0ZW0+IGFsbEl0ZW1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxNeUl0ZW0+IG5ld0l0ZW1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxNeUl0ZW0+IGN0cjNJdGVtcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8TXlJdGVtPiBzZXh5SXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpbnQgdG90ID0gMDsKICAgICAgICBmb3IgKGludCByciA9IDA7IHJyIDwgNjAwMDAwOyBycisrKSB7CiAgICAgICAgICAgIGludCBpbmNyID0gVGhyZWFkTG9jYWxSYW5kb20uY3VycmVudCgpLm5leHRJbnQoMTAsIDEwMCk7CiAgICAgICAgICAgIGludCBpdGVtSWQgPSB0b3QgKz0gaW5jcjsKICAgICAgICAgICAgTXlJdGVtIG15SXRlbSA9IG5ldyBNeUl0ZW0oKTsKICAgICAgICAgICAgbXlJdGVtLnNldFNjb3JlQ2FydHMoVGhyZWFkTG9jYWxSYW5kb20uY3VycmVudCgpLm5leHRJbnQoMTAsIDEwMDAwMDApKTsKICAgICAgICAgICAgbXlJdGVtLnNldENyZWF0ZWRBdChUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludCgxMCwgMTAwMDAwMCkpOwogICAgICAgICAgICBteUl0ZW0uc2V0U2NvcmVDdHIzKFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KDEwLCAxMDAwMDAwKSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRJZChpdGVtSWQpOwogICAgICAgICAgICBhbGxJdGVtcy5hZGQobXlJdGVtKTsKICAgICAgICAgICAgbmV3SXRlbXMuYWRkKG15SXRlbSk7CiAgICAgICAgICAgIGN0cjNJdGVtcy5hZGQobXlJdGVtKTsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgcnIgPSAwOyByciA8IDYwMDAwMDsgcnIrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWxsSXRlbXMuZ2V0KHJyKS5nZXRJZCgpKTsKICAgICAgICAgICAgaWYgKHJyID4gMjApIGJyZWFrOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QgY21wOiAiICsgSW5zdGFudC5ub3coKSk7CiAgICAgICAgY29tcGFyZVNjb3JlQ2FydHMoYWxsSXRlbXMpOwogICAgICAgIGNvbXBhcmVTY29yZUN0cjMoY3RyM0l0ZW1zKTsKICAgICAgICBjb21wYXJlQ3JlYXRlZEF0KG5ld0l0ZW1zKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QgY21wOiAiICsgSW5zdGFudC5ub3coKSk7CiAgICAgICAgZm9yIChpbnQgcnIgPSAwOyByciA8IDIwOyBycisrKSB7CiAgICAgICAgICAgIE15SXRlbSBteUl0ZW0gPSBhbGxJdGVtcy5nZXQocnIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFsbEl0ZW1zICIgKyBteUl0ZW0uZ2V0SWQoKSArICIgIiArIG15SXRlbS5nZXRTY29yZUNhcnRzKCkpOwogICAgICAgIH0KICAgICAgICBmb3IgKGludCByciA9IDA7IHJyIDwgMjA7IHJyKyspIHsKICAgICAgICAgICAgTXlJdGVtIG15SXRlbSA9IGN0cjNJdGVtcy5nZXQocnIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImN0cjNJdGVtcyAiICsgbXlJdGVtLmdldElkKCkgKyAiICIgKyBteUl0ZW0uZ2V0U2NvcmVDdHIzKCkpOwogICAgICAgIH0KICAgICAgICBmb3IgKGludCByciA9IDA7IHJyIDwgMjA7IHJyKyspIHsKICAgICAgICAgICAgTXlJdGVtIG15SXRlbSA9IGN0cjNJdGVtcy5nZXQocnIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5ld0l0ZW1zICIgKyBteUl0ZW0uZ2V0SWQoKSArICIgIiArIG15SXRlbS5nZXRDcmVhdGVkQXQoKSk7CiAgICAgICAgfQogICAgICAgIE1hcDxJbnRlZ2VyLCBPYmplY3Q+IG1hcEZsYWcgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0IG1hcEZsYWc6ICIgKyBJbnN0YW50Lm5vdygpKTsKICAgICAgICBpbnQgeCA9IDA7CiAgICAgICAgSXRlcmF0b3I8TXlJdGVtPiBpdGVyID0gYWxsSXRlbXMuaXRlcmF0b3IoKTsKICAgICAgICBmb3IgKGludCByciA9IDA7IHJyIDwgNjAwMDAwOyBycisrKSB7CiAgICAgICAgICAgIE15SXRlbSBpdGVtID0gYWxsSXRlbXMuZ2V0KHJyKTsKLy8gICAgICAgICAgIE15SXRlbSBpdGVtID0gaXRlci5uZXh0KCk7CiAgICAgICAgICAgIHggKz0gaXRlbS5nZXRJZCgpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QgbWFwRmxhZyBPdmVyOiAiICsgSW5zdGFudC5ub3coKSk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXMgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgaW50IG1heFNjb3JlID0gMTAwMDAwMDAwOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVnaW46ICIgKyBJbnN0YW50Lm5vdygpKTsKICAgICAgICBpbnQgY250MiA9IDA7CiAgICAgICAgSW5zdGFudCBsYXN0ID0gSW5zdGFudC5ub3coKTsKICAgICAgICB3aGlsZSAoaSA8IGFsbEl0ZW1zLnNpemUoKSB8fCBqIDwgbmV3SXRlbXMuc2l6ZSgpIHx8IGsgPCBjdHIzSXRlbXMuc2l6ZSgpKSB7CiAgICAgICAgICAgIE15SXRlbSBteUl0ZW0wID0gbnVsbDsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAwID0gZ2V0VmFsaWRNeUl0ZW0oYWxsSXRlbXMsIG1hcEZsYWcsIGkpOwogICAgICAgICAgICBteUl0ZW0wID0gKE15SXRlbSkgbWFwMC5nZXQoIml0ZW0iKTsKICAgICAgICAgICAgaSA9IChpbnQpIG1hcDAuZ2V0KCJpbmRleCIpOwogICAgICAgICAgICBpZiAobXlJdGVtMCA9PSBudWxsKSBicmVhazsKICAgICAgICAgICAgKytjbnQyOwogICAgICAgICAgICBpZiAoY250MiAlIDEwMDAwID09IDApIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjbnQyICsgIiAiICsgSW5zdGFudC5ub3coKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXNJdGVtID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICByZXNJdGVtLnB1dCgiaWQiLCBteUl0ZW0wLmdldElkKCkpOwogICAgICAgICAgICByZXNJdGVtLnB1dChTY29yZUNvbnN0YW50LlNDT1JFXzIxLCBtYXhTY29yZSk7CiAgICAgICAgICAgIHJlcy5hZGQocmVzSXRlbSk7CiAgICAgICAgICAgIG1heFNjb3JlIC09IDEwOwogICAgICAgICAgICArK2NudDE7CiAgICAgICAgICAgIGlmIChjbnQxID09IDQpIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGtrID0gMDsga2sgPCA0OyBraysrKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGsgPCBjdHIzSXRlbXMuc2l6ZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE15SXRlbSBteUl0ZW0yID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAyID0gZ2V0VmFsaWRNeUl0ZW0oY3RyM0l0ZW1zLCBtYXBGbGFnLCBrKTsKICAgICAgICAgICAgICAgICAgICAgICAgbXlJdGVtMiA9IChNeUl0ZW0pIG1hcDIuZ2V0KCJpdGVtIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGsgPSAoaW50KSBtYXAyLmdldCgiaW5kZXgiKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG15SXRlbTIgPT0gbnVsbCkgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICsrY250MjsKICAgICAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXNJdGVtMiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzSXRlbTIucHV0KCJpZCIsIG15SXRlbTIuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc0l0ZW0yLnB1dChTY29yZUNvbnN0YW50LlNDT1JFXzIxLCBtYXhTY29yZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcy5hZGQocmVzSXRlbTIpOwogICAgICAgICAgICAgICAgICAgICAgICBtYXhTY29yZSAtPSAxMDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY250MSAlPSA2OwogICAgICAgIH0KICAgICAgICBtYXhTY29yZSA9IGRvSXRlbXMoYWxsSXRlbXMsIG1hcEZsYWcsIGksIHJlcywgbWF4U2NvcmUpOwogICAgICAgIG1heFNjb3JlID0gZG9JdGVtcyhuZXdJdGVtcywgbWFwRmxhZywgaiwgcmVzLCBtYXhTY29yZSk7CiAgICAgICAgbWF4U2NvcmUgPSBkb0l0ZW1zKGN0cjNJdGVtcywgbWFwRmxhZywgaywgcmVzLCBtYXhTY29yZSk7CiAgICAgICAgbWF4U2NvcmUgPSBkb0l0ZW1zKHNleHlJdGVtcywgbWFwRmxhZywgMCwgcmVzLCBtYXhTY29yZSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbmQ6ICIgKyBJbnN0YW50Lm5vdygpKTsKICAgICAgICAvKgogICAgICAgIExpc3Q8TXlJdGVtPiBteUl0ZW1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yKGludCBpID0gMDtpIDwgMTAwO2krKykgewogICAgICAgICAgICBpbnQgc2NvcmUgPSAoaW50KSgxICsgTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxICsgMSkpOwogICAgICAgICAgICBpbnQgY3JlYXRlZEF0ID0gKGludCkoMSArIE1hdGgucmFuZG9tKCkgKiAoMTAwMCAtIDEgKyAxKSk7CiAgICAgICAgICAgIE15SXRlbSBteUl0ZW0gPSBuZXcgTXlJdGVtKCk7CiAgICAgICAgICAgIG15SXRlbS5zZXRJZChpKTsKICAgICAgICAgICAgbXlJdGVtLnNldFNjb3JlKHNjb3JlKTsKICAgICAgICAgICAgbXlJdGVtLnNldENyZWF0ZWRBdChjcmVhdGVkQXQpOwogICAgICAgICAgICBteUl0ZW1zLmFkZChteUl0ZW0pOwogICAgICAgIH0KICAgICAgICBjb21wYXJlQ3JlYXRlZEF0KG15SXRlbXMpOwogICAgICAgIGZvciAoTXlJdGVtIG15SXRlbToKICAgICAgICAgICAgIG15SXRlbXMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpZDogIiArIG15SXRlbS5nZXRJZCgpICsgIiBzY29yZTogIiArIG15SXRlbS5nZXRTY29yZSgpICsgIiBjcmVhdGVkX2F0OiAiICsgbXlJdGVtLmdldENyZWF0ZWRBdCgpKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgY29tcGFyZVNjb3JlKG15SXRlbXMpOwogICAgICAgIGZvciAoTXlJdGVtIG15SXRlbToKICAgICAgICAgICAgICAgIG15SXRlbXMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpZDogIiArIG15SXRlbS5nZXRJZCgpICsgIiBzY29yZTogIiArIG15SXRlbS5nZXRTY29yZSgpICsgIiBjcmVhdGVkX2F0OiAiICsgbXlJdGVtLmdldENyZWF0ZWRBdCgpKTsKICAgICAgICB9CiAgICAgICAgKi8KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY29tcGFyZUNyZWF0ZWRBdChMaXN0PE15SXRlbT4gbXlJdGVtcykgewogICAgICAgIENvbGxlY3Rpb25zLnNvcnQobXlJdGVtcywgbmV3IENvbXBhcmF0b3I8TXlJdGVtPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShNeUl0ZW0gbzEsIE15SXRlbSBvMikgewogICAgICAgICAgICAgICAgaWYgKG8xLmdldENyZWF0ZWRBdCgpIDwgbzIuZ2V0Q3JlYXRlZEF0KCkpIHJldHVybiAtMTsKICAgICAgICAgICAgICAgIGVsc2UgaWYgKG8xLmdldENyZWF0ZWRBdCgpID09IG8yLmdldENyZWF0ZWRBdCgpKSByZXR1cm4gMDsKICAgICAgICAgICAgICAgIGVsc2UgcmV0dXJuIDE7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY29tcGFyZVNjb3JlKExpc3Q8TXlJdGVtPiBteUl0ZW1zKSB7CiAgICAgICAgQ29sbGVjdGlvbnMuc29ydChteUl0ZW1zLCBuZXcgQ29tcGFyYXRvcjxNeUl0ZW0+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlKE15SXRlbSBvMSwgTXlJdGVtIG8yKSB7CiAgICAgICAgICAgICAgICBpZiAobzEuZ2V0U2NvcmUoKSA8IG8yLmdldFNjb3JlKCkpIHJldHVybiAxOwogICAgICAgICAgICAgICAgZWxzZSBpZiAobzEuZ2V0U2NvcmUoKSA9PSBvMi5nZXRTY29yZSgpKSByZXR1cm4gMDsKICAgICAgICAgICAgICAgIGVsc2UgcmV0dXJuIC0xOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNvbXBhcmVTY29yZUNhcnRzKExpc3Q8TXlJdGVtPiBteUl0ZW1zKSB7CiAgICAgICAgQ29sbGVjdGlvbnMuc29ydChteUl0ZW1zLCBuZXcgQ29tcGFyYXRvcjxNeUl0ZW0+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlKE15SXRlbSBvMSwgTXlJdGVtIG8yKSB7CiAgICAgICAgICAgICAgICBpZiAobzEuZ2V0U2NvcmVDYXJ0cygpIDwgbzIuZ2V0U2NvcmVDYXJ0cygpKSByZXR1cm4gMTsKICAgICAgICAgICAgICAgIGVsc2UgaWYgKG8xLmdldFNjb3JlQ2FydHMoKSA9PSBvMi5nZXRTY29yZUNhcnRzKCkpIHJldHVybiAwOwogICAgICAgICAgICAgICAgZWxzZSByZXR1cm4gLTE7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY29tcGFyZVNjb3JlQ3RyMyhMaXN0PE15SXRlbT4gbXlJdGVtcykgewogICAgICAgIENvbGxlY3Rpb25zLnNvcnQobXlJdGVtcywgbmV3IENvbXBhcmF0b3I8TXlJdGVtPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShNeUl0ZW0gbzEsIE15SXRlbSBvMikgewovLyAgICAgICAgICAgICAgICBpZihvMS5nZXRSZWNvbW1lbmQoKSA9PSAxICYmIG8yLmdldFJlY29tbWVuZCgpID09IDEpIHsKLy8KLy8gICAgICAgICAgICAgICAgfSBlbHNlIGlmKG8xLmdldFJlY29tbWVuZCgpID09IDEgfHwgbzIuZ2V0UmVjb21tZW5kKCkgPT0gMSkgewovLyAgICAgICAgICAgICAgICAgICAgaWYobzEuZ2V0UmVjb21tZW5kKCkgPT0gMSAmJiBvMi5nZXRSZWNvbW1lbmQoKSAhPSAxKSByZXR1cm4gLTE7Ci8vICAgICAgICAgICAgICAgICAgICBlbHNlIGlmKG8xLmdldFJlY29tbWVuZCgpICE9IDEgJiYgbzIuZ2V0UmVjb21tZW5kKCkgPT0gMSkgcmV0dXJuIDE7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKLy8gICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG8xLmdldFNjb3JlQ3RyMygpIDwgbzIuZ2V0U2NvcmVDdHIzKCkpIHJldHVybiAxOwogICAgICAgICAgICAgICAgZWxzZSBpZiAobzEuZ2V0U2NvcmVDdHIzKCkgPT0gbzIuZ2V0U2NvcmVDdHIzKCkpIHJldHVybiAwOwogICAgICAgICAgICAgICAgZWxzZSByZXR1cm4gLTE7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0KCiAgICBwdWJsaWMgY2xhc3MgTXlJdGVtIHsKICAgICAgICBwcml2YXRlIGludCBpZDsKICAgICAgICBwcml2YXRlIGludCBzY29yZTsKICAgICAgICBwcml2YXRlIGludCBzY29yZUNhcnRzOwogICAgICAgIHByaXZhdGUgaW50IHNjb3JlQ3RyMzsKICAgICAgICBwcml2YXRlIGludCBjcmVhdGVkQXQ7CiAgICAgICAgcHJpdmF0ZSBpbnQgcmVjb21tZW5kOwoKCiAgICAgICAgcHVibGljIGludCBnZXRSZWNvbW1lbmQoKSB7CiAgICAgICAgICAgIHJldHVybiByZWNvbW1lbmQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRSZWNvbW1lbmQoaW50IHJlY29tbWVuZCkgewogICAgICAgICAgICB0aGlzLnJlY29tbWVuZCA9IHJlY29tbWVuZDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0U2NvcmUoKSB7CiAgICAgICAgICAgIHJldHVybiBzY29yZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFNjb3JlKGludCBzY29yZSkgewogICAgICAgICAgICB0aGlzLnNjb3JlID0gc2NvcmU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldFNjb3JlQ2FydHMoKSB7CiAgICAgICAgICAgIHJldHVybiBzY29yZUNhcnRzOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0U2NvcmVDYXJ0cyhpbnQgc2NvcmVDYXJ0cykgewogICAgICAgICAgICB0aGlzLnNjb3JlQ2FydHMgPSBzY29yZUNhcnRzOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludCBnZXRTY29yZUN0cjMoKSB7CiAgICAgICAgICAgIHJldHVybiBzY29yZUN0cjM7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRTY29yZUN0cjMoaW50IHNjb3JlQ3RyMykgewogICAgICAgICAgICB0aGlzLnNjb3JlQ3RyMyA9IHNjb3JlQ3RyMzsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICAgICAgICAgIHJldHVybiBpZDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldElkKGludCBpZCkgewogICAgICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldENyZWF0ZWRBdCgpIHsKICAgICAgICAgICAgcmV0dXJuIGNyZWF0ZWRBdDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldENyZWF0ZWRBdChpbnQgY3JlYXRlZEF0KSB7CiAgICAgICAgICAgIHRoaXMuY3JlYXRlZEF0ID0gY3JlYXRlZEF0OwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICAgICAgcmV0dXJuICJ7IiArCiAgICAgICAgICAgICAgICAgICAgIlwiaWRcIjogIiArICJcIiIgKyBpZCArICJcIiIgKwogICAgICAgICAgICAgICAgICAgICIsIFwic2NvcmVDYXJ0c1wiOiAiICsgIlwiIiArIHNjb3JlQ2FydHMgKyAiXCIiICsKICAgICAgICAgICAgICAgICAgICAiLCBcInNjb3JlXCI6ICIgKyAiXCIiICsgc2NvcmUgKyAiXCIiICsKICAgICAgICAgICAgICAgICAgICAiLCBcInNjb3JlQ3RyM1wiOiAiICsgIlwiIiArIHNjb3JlQ3RyMyArICJcIiIgKwogICAgICAgICAgICAgICAgICAgICIsIFwiY3JlYXRlZEF0XCI6ICIgKyAiXCIiICsgY3JlYXRlZEF0ICsgIlwiIiArCiAgICAgICAgICAgICAgICAgICAgIiwgXCJyZWNvbW1lbmRcIjogIiArICJcIiIgKyByZWNvbW1lbmQgKyAiXCIiICsKICAgICAgICAgICAgICAgICAgICAnfSc7CiAgICAgICAgfQogICAgfQoKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QgY21wOiAiICsgSW5zdGFudC5ub3coKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxNeUl0ZW0+IAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action AceLineAction</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>start</last-search>
+      <last-offset />
+      <last-pattern>start</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>start</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry>.action AceLineAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlTGluZUFjdGlvbg==</entry>
+        <entry>action AceAction</entry>
+        <entry>action AceLineAction</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
