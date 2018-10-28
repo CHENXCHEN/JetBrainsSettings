@@ -204,6 +204,12 @@
         <mark key="[" line="56" column="36" />
         <mark key="]" line="56" column="45" />
       </file>
+      <file name="$USER_HOME$/code/hwork/ACM/settings.gradle.kts" timestamp="1540711318264">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/ShopParserTest.scala" timestamp="1538221968300">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="35" />
@@ -372,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinkedList</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>LinkedList</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
