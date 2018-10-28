@@ -150,12 +150,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="120" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1540736732861">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="28" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1540737968125">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="34" column="22" />
+        <mark key="." line="34" column="22" />
+        <mark key="^" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
         <mark key="[" line="44" column="4" />
@@ -424,8 +424,8 @@
       <jump line="20" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHEudG9TZXEpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -437,31 +437,31 @@
         <text encoding="base64">ICAgIHByaW50bG4obWluaW11bUJyaWJlcyhBcnJheSgyLDEsNSwzLDQpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbnQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHEudG9TZXEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGNoZWNrVmFsaWQpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmKGNoZWNrVmFsaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpIGNoZWNrVmFsaWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpIGNoZWNrVmFsaWQgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgd2hpbGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHEoMCkgPSAxMAo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHEoMCkgPSAxMAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
@@ -530,6 +530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
