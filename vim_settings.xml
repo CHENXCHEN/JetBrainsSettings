@@ -150,12 +150,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="120" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1540737968125">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="34" column="22" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1541002356905">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="70" column="26" />
+        <mark key="]" line="70" column="47" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
         <mark key="[" line="44" column="4" />
@@ -219,7 +219,6 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/hackerrank/Practice/Interview Preparation Kit/Warm-up Challenges/SockMerchant.scala" timestamp="1540716026091" />
       <file name="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" timestamp="1538226744052">
         <mark key="'" line="90" column="19" />
         <mark key="[" line="251" column="33" />
@@ -239,12 +238,12 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1539242241170">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="142" column="72" />
-        <mark key="]" line="142" column="71" />
-        <mark key="^" line="142" column="71" />
-        <mark key="." line="142" column="71" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1541002458910">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/Parser.scala" timestamp="1539174009145">
         <mark key="[" line="32" column="78" />
@@ -322,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="28" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
       <jump line="28" column="4" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/HbaseHandle.kt" />
       <jump line="62" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
       <jump line="90" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
@@ -422,46 +419,48 @@
       <jump line="15" column="34" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
       <jump line="33" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
       <jump line="20" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
+      <jump line="32" column="27" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
+      <jump line="24" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHEudG9TZXEpCg==</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Array(1,2,3,)</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWluaW11bUJyaWJlcyhBcnJheSgyLDEsNSwzLDQpKSkK</text>
+      <register name="0" type="4">
+        <text>Array(1,2,5,3,7,8,6,4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHEudG9TZXEpCg==</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbnQK</text>
+        <text encoding="base64">ICBjYXNlICh2LCBpbmRleCkgPT4gdgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGNoZWNrVmFsaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbih2LCBpbmRleCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY2FzZSAodiwgaW5kZXgpID0+IHYgLT4gaW5kZXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpIGNoZWNrVmFsaWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgdiwgeCA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIHEubWFwKAogICAgICB4ID0+CiAgICAgICAgCiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHEoMCkgPSAxMAo=</text>
+        <text encoding="base64">ICAgIHEubWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
