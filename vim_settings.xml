@@ -150,11 +150,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="120" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1541085931633">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="15" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1541088474576">
+        <mark key="[" line="102" column="40" />
+        <mark key="]" line="102" column="38" />
+        <mark key="." line="102" column="38" />
+        <mark key="^" line="102" column="38" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
         <mark key="[" line="44" column="4" />
@@ -423,40 +423,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println(</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>println(</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRtcENudDEgPSBtb3ZlTGVmdCh4KQo=</text>
+        <text encoding="base64">ICAgIGlmKGNoZWNrKSBjbnQgZWxzZSAtMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFycikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4obW92ZUNudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICApCg==</text>
+        <text encoding="base64">ICAgIGNudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvb3AuYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wLmJyZQo=</text>
+        <text encoding="base64">CiAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgCiAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
+        <text encoding="base64">ICAgIGxvb3AuYnJlYWsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBsb29wLmJyZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBicmVhawo=</text>
