@@ -150,10 +150,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="120" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1541003535494">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" timestamp="1541083818089">
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
         <mark key="[" line="44" column="4" />
@@ -236,11 +237,12 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1541002873725">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1541083334570">
+        <mark key="'" line="9" column="49" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/Parser.scala" timestamp="1539174009145">
         <mark key="[" line="32" column="78" />
@@ -318,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/common/HbaseHandle.kt" />
       <jump line="62" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
       <jump line="90" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
       <jump line="89" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
@@ -418,13 +419,14 @@
       <jump line="32" column="27" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
       <jump line="24" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/NewYearChaos/Solution.scala" />
       <jump line="4" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+      <jump line="9" column="49" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGFycihwb3NOb3cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -433,31 +435,31 @@
         <text>posHash(pos)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGFycihwb3NOb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm93Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRtcAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXJyCg==</text>
+        <text encoding="base64">Ly8gICAgdmFyIHJlYWxQb3MgPSBwb3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnIoeCkgPSBhcnIoeCAtIDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlKHJlYWxQb3MgPiAwICYmIHJlYWxQb3MgPCBhcnIuc2l6ZSAmJiBwb3NIYXNoKHBvcykgPCBwb3MpIHsKLy8gICAgICB2YWwgcG9zTm93ID0gcG9zSGFzaChwb3MpCi8vICAgICAgdmFsIHBvc05leHQgPSBwb3NIYXNoKHBvc05vdyAtIDEpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGFycihwb3NOb3cpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvc0hhc2guZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRtcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKHBvcyA8IGFyci5zaXplICYmIHBvcyAhPSBhcnIocG9zSGFzaC5nZXQocG9zKSkgJiYgYXJyKHBvc0hhc2guZ2V0KHBvcykpIDwgcG9zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgYXJyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKGFycltwb3NdICkK</text>
+        <text encoding="base64">ICAgICAgd2hpbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
