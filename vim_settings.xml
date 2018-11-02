@@ -319,6 +319,7 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-job/src/main/java/com/fordeal/job/util/ScoreConstant.java" timestamp="1541150600178" />
     </filemarks>
     <jumps>
       <jump line="38" column="28" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
