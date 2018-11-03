@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/CalcItemScore.java" timestamp="1541242042409" />
       <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/AdEffectParser.scala" timestamp="1539230322279">
         <mark key="[" line="44" column="4" />
         <mark key="]" line="45" column="7" />
@@ -80,7 +81,6 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score22FunctionHandler.java" timestamp="1541175037032" />
       <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/BackCatParserTest.scala" timestamp="1538226464806">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="58" column="15" />
@@ -187,6 +187,7 @@
         <mark key="." line="43" column="78" />
         <mark key="^" line="42" column="115" />
       </file>
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/CalculateItemsScoreJobHandler.java" timestamp="1541241877506" />
       <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/WarmupChallenges/JumpingOnTheClouds/Solution.scala" timestamp="1540731734678">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="30" column="5" />
@@ -320,7 +321,6 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-job/src/main/java/com/fordeal/job/util/ScoreConstant.java" timestamp="1541150600178" />
     </filemarks>
     <jumps>
       <jump line="38" column="28" filename="$USER_HOME$/code/work/HbaseReaderService/src/main/kotlin/reader/Reader.kt" />
