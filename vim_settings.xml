@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/HashTablesRansomNote/package.scala" timestamp="1541855073573">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="75" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/BackCatParserTest.scala" timestamp="1538226464806">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="58" column="15" />
@@ -122,6 +129,13 @@
         <mark key="." line="286" column="38" />
         <mark key="^" line="286" column="38" />
       </file>
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/HashTablesRansomNote/Solution.scala" timestamp="1541856173870">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+      </file>
       <file name="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/ShopParserTest.scala" timestamp="1538221968300">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="35" />
@@ -157,8 +171,8 @@
         <mark key="." line="42" column="39" />
         <mark key="^" line="42" column="39" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/MinimumSwaps2/Solution.scala" timestamp="1541840761241">
-        <mark key="'" line="20" column="21" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/MinimumSwaps2/Solution.scala" timestamp="1541854645759">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="82" column="3" />
         <mark key="." line="20" column="20" />
@@ -200,8 +214,8 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="30" column="5" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" timestamp="1540733849041">
-        <mark key="'" line="48" column="0" />
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" timestamp="1541855368933">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="30" column="5" />
         <mark key="." line="16" column="22" />
@@ -265,7 +279,7 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541839072412">
+      <file name="/Dummy.txt" timestamp="1541854648378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -319,12 +333,12 @@
         <mark key="." line="90" column="9" />
         <mark key="^" line="90" column="9" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" timestamp="1541850391507">
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" timestamp="1541854480004">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="25" column="24" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1540736168277">
         <mark key="[" line="0" column="0" />
@@ -338,11 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/code/work/EventSink/test.json" />
-      <jump line="5" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" />
-      <jump line="65" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/BackCatParserTest.scala" />
-      <jump line="16" column="19" filename="$USER_HOME$/code/work/EventSink/src/test/scala/common/TestData.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/code/work/EventSink/test.json" />
       <jump line="78" column="18" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
       <jump line="100" column="6" filename="$USER_HOME$/code/work/EventSink/src/test/scala/parsers/AdEffectParserTest.scala" />
@@ -438,46 +447,51 @@
       <jump line="66" column="2" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" />
       <jump line="82" column="25" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" />
       <jump line="0" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" />
+      <jump line="53" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/MinimumSwaps2/Solution.scala" />
+      <jump line="1" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/HashTablesRansomNote/package.scala" />
+      <jump line="35" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/HashTablesRansomNote/package.scala" />
+      <jump line="26" column="4" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/HashTablesRansomNote/Solution.scala" />
+      <jump line="28" column="0" filename="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/Array2DDS/Solution.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>magazine.toMap</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>magazine.toMap</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdERhdGEoKTogVW5pdCA9IHsKICAgIHZhbCBpbnB1dHMgPSBBcnJheSgKICAgICAgQXJyYXkoMiwgMywgNCwgMSwgNSksCiAgICAgIEFycmF5KDQsIDMsIDEsIDIpLAogICAgICBBcnJheSgyLCAxLCA1LCAzLCA0KSwKICAgICAgQXJyYXkoMiwgNSwgMSwgMywgNCksCiAgICAgIEFycmF5KDEsIDIsIDUsIDMsIDcsIDgsIDYsIDQpLAogICAgICBBcnJheSgxLCAyLCAzLCA0LCA1KSwKICAgICAgQXJyYXkoMSksCiAgICAgIEFycmF5KDMsIDEsIDIpLAogICAgICBBcnJheSgzLCAyLCAxKSwKICAgICAgQXJyYXkoNSwgNCwgMywgMiwgMSksCiAgICAgIEFycmF5KDEsIDIsIDMsIDQsIDUpLAogICAgICBBcnJheSg3LCAxLCAzLCAyLCA0LCA1LCA2KQogICAgICAvKgogICAgICAqLwogICAgKQogICAgaW5wdXRzLmZvcmVhY2ggewogICAgICBpbnB1dCA9PiBwcmludGxuKG1pbmltdW1Td2FwcyhpbnB1dCkpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgQXJyYXkoCiAgICAgICAgInR3byB0aW1lcyB0aHJlZSBpcyBub3QgZm91ciIsCiAgICAgICAgInR3byB0aW1lcyB0d28gaXMgZm91ciIKICAgICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgIG1hZ2F6aW5lLnRvTWFwCiAgICB2YWwgbVNldCA9IG1hZ2F6aW5lLnRvU2V0Ci8vICAgIHZhbCBuU2V0ID0gbm90ZS50b1NldAogICAgdmFyIGNoZWNrID0gdHJ1ZQogICAgcHJpbnRsbihtYWdhemluZS50b1NlcSwgbm90ZS50b1NlcSkKICAgIG5vdGUuZm9yZWFjaCB7CiAgICAgIHggPT4gY2hlY2sgJj0gbVNldC5jb250YWlucyh4KQogICAgfQogICAgaWYoY2hlY2spIHByaW50bG4oIlllcyIpCiAgICBlbHNlIHByaW50bG4oIk5vIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXggPSAwCiAgICBtYXggCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obVNldC5jb250YWlucygidHdvIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcUFycgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWFnYXppbmUudG9TZXEsIG5vdGUudG9TZXEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0KICAgIHByaW50bG4obWFnYXppbmUudG9TZXEsIG5vdGUudG9TZXEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1TZXQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIG4gbrTOstnX9wo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheSgiZ2l2ZSIsICJtZSIsICJvbmUiLCAiZ3JhbmQiLCAidG9kYXkiLCAibmlnaHQiKSwKICAgICAgICBBcnJheSgiZ2l2ZSIsICJvbmUiLCAiZ3JhbmQiLCAidG9kYXkiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXJyYXkoCiAgICAgICAgQXJyYXkoImdpdmUiLCAibWUiLCAib25lIiwgImdyYW5kIiwgInRvZGF5IiwgIm5pZ2h0IiksCiAgICAgICAgQXJyYXkoImdpdmUiLCAib25lIiwgImdyYW5kIiwgInRvZGF5IikKICAgICAgKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLmlvLl8KaW1wb3J0IGphdmEubWF0aC5fCmltcG9ydCBqYXZhLnNlY3VyaXR5Ll8KaW1wb3J0IGphdmEudGV4dC5fCmltcG9ydCBqYXZhLnV0aWwuXwppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuXwppbXBvcnQgamF2YS51dGlsLmZ1bmN0aW9uLl8KaW1wb3J0IGphdmEudXRpbC5yZWdleC5fCmltcG9ydCBqYXZhLnV0aWwuc3RyZWFtLl8KCmltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUKaW1wb3J0IHNjYWxhLnV0aWwuY29udHJvbC5CcmVha3MKCm9iamVjdCBTb2x1dGlvbiB7CgogIHZhciBhcnI6IEFycmF5W0ludF0gPSBBcnJheSgpCiAgdmFyIHBvc0hhc2g6IG11dGFibGUuTWFwW0ludCwgSW50XSA9IG11dGFibGUuTWFwKCkKICB2YXIgbW92ZUNudDogQXJyYXlbSW50XSA9IEFycmF5KCkKCiAgZGVmIG1vdmVMZWZ0KHBvczogSW50KTogSW50ID0gewogICAgdmFyIGNudCA9IDAKICAgIHZhciBjaGVjayA9IHRydWUKICAgIGlmIChwb3NIYXNoKHBvcykgPiBwb3MpIHsKICAgICAgZm9yICh4IDwtIHBvc0hhc2gocG9zKSAtIDEgdG8gcG9zIGJ5ICgtMSkpIHsKICAgICAgICBjbnQgKz0gMQogICAgICAgIGFycih4ICsgMSkgPSBhcnIoeCkKICAgICAgICBwb3NIYXNoKGFycih4KSkgPSB4ICsgMQogICAgICAgIG1vdmVDbnQoYXJyKHgpKSArPSAxCiAgICAgICAgaWYgKG1vdmVDbnQoYXJyKHgpKSA+IDIpIHsKICAgICAgICAgIGNoZWNrID0gZmFsc2UKICAgICAgICAgIHJldHVybiAtMQogICAgICAgIH0KICAgICAgfQogICAgICBhcnIocG9zKSA9IHBvcwogICAgICBwb3NIYXNoKHBvcykgPSBwb3MKICAgIH0KICAgIGlmIChjaGVjaykgY250IGVsc2UgLTEKICB9CgogIC8vIENvbXBsZXRlIHRoZSBtaW5pbXVtQnJpYmVzIGZ1bmN0aW9uIGJlbG93LgogIGRlZiBtaW5pbXVtQnJpYmVzKHE6IEFycmF5W0ludF0pOiBVbml0ID0gewogICAgYXJyID0gcS5tYXAoXyAtIDEpCiAgICBwb3NIYXNoID0gbXV0YWJsZS5NYXAoYXJyLnppcFdpdGhJbmRleDogXyAqKQogICAgbW92ZUNudCA9IEFycmF5LmZpbGwocS5sZW5ndGgpezB9CiAgICAvLyAgICBwcmludGxuKGFycikKICAgIC8vICAgIHByaW50bG4ocG9zSGFzaCkKICAgIHZhciBjaGVja1ZhbGlkID0gdHJ1ZQogICAgdmFyIGNudCA9IDAKICAgIHZhbCBsb29wID0gQnJlYWtzCiAgICBsb29wLmJyZWFrYWJsZSgKICAgICAgZm9yICh4IDwtIGFyci5pbmRpY2VzKSB7CiAgICAgICAgdmFsIHRtcENudDEgPSBtb3ZlTGVmdCh4KQogICAgICAgIGlmICh0bXBDbnQxID09IC0xKSB7CiAgICAgICAgICBjaGVja1ZhbGlkID0gZmFsc2UKICAgICAgICAgIGxvb3AuYnJlYWsKICAgICAgICB9CiAgICAgICAgY250ICs9IHRtcENudDEKICAgICAgICAvLyAgICAgICAgICAgICAgICBwcmludGxuKGFycikKICAgICAgICAvLyAgICAgICAgICAgICAgICBwcmludGxuKG1vdmVDbnQpCiAgICAgIH0KICAgICkKICAgIC8vICAgIHByaW50bG4obW92ZUNudCkKICAgIGlmIChjaGVja1ZhbGlkKSBwcmludGxuKGNudCkKICAgIGVsc2UgcHJpbnRsbigiVG9vIGNoYW90aWMiKQogIH0KCiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgaWYgKCFzeXMuZW52LmtleVNldC5jb250YWlucygiT1VUUFVUX1BBVEgiKSkgewogICAgICB0ZXN0RGF0YSgpCiAgICAgIHJldHVybgogICAgfQogICAgdmFsIHN0ZGluID0gc2NhbGEuaW8uU3RkSW4KCiAgICB2YWwgdCA9IHN0ZGluLnJlYWRMaW5lLnRyaW0udG9JbnQKCiAgICBmb3IgKHRJdHIgPC0gMSB0byB0KSB7CiAgICAgIHZhbCBuID0gc3RkaW4ucmVhZExpbmUudHJpbS50b0ludAoKICAgICAgdmFsIHEgPSBzdGRpbi5yZWFkTGluZS5zcGxpdCgiICIpLm1hcChfLnRyaW0udG9JbnQpCiAgICAgIG1pbmltdW1CcmliZXMocSkKICAgIH0KICB9CgogIGRlZiB0ZXN0RGF0YSgpOiBVbml0ID0gewogICAgbWluaW11bUJyaWJlcyhBcnJheSgyLCAxLCA1LCAzLCA0KSkKICAgIG1pbmltdW1CcmliZXMoQXJyYXkoMiwgNSwgMSwgMywgNCkpCiAgICBtaW5pbXVtQnJpYmVzKEFycmF5KDEsIDIsIDUsIDMsIDcsIDgsIDYsIDQpKQogICAgbWluaW11bUJyaWJlcyhBcnJheSgxLCAyLCAzLCA0LCA1KSkKICAgIG1pbmltdW1CcmliZXMoQXJyYXkoMSkpCiAgICBtaW5pbXVtQnJpYmVzKEFycmF5KDMsIDEsIDIpKQogICAgbWluaW11bUJyaWJlcyhBcnJheSgzLCAyLCAxKSkKICAgIG1pbmltdW1CcmliZXMoQXJyYXkoNSwgNCwgMywgMiwgMSkpCiAgICBtaW5pbXVtQnJpYmVzKEFycmF5KDEsIDIsIDMsIDQsIDUpKQogIH0KfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
