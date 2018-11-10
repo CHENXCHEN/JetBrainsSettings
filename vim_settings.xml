@@ -319,12 +319,12 @@
         <mark key="." line="90" column="9" />
         <mark key="^" line="90" column="9" />
       </file>
-      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" timestamp="1541840802798">
+      <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" timestamp="1541850391507">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="5" />
-        <mark key="]" line="85" column="5" />
-        <mark key="." line="85" column="5" />
-        <mark key="^" line="85" column="5" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1540736168277">
         <mark key="[" line="0" column="0" />
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
