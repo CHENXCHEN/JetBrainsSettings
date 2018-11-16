@@ -226,12 +226,12 @@
         <mark key="^" line="84" column="5" />
         <mark key="." line="84" column="5" />
       </file>
-      <file name="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" timestamp="1542294826338">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="91" column="15" />
-        <mark key="]" line="91" column="23" />
-        <mark key="." line="91" column="23" />
-        <mark key="^" line="91" column="23" />
+      <file name="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" timestamp="1542298504231">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="51" column="7" />
       </file>
       <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/2DArrayDS/Solution.scala" timestamp="1540732721269">
         <mark key="[" line="0" column="58" />
@@ -470,44 +470,44 @@
       <jump line="39" column="0" filename="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1 2 1 2 4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1 2 1 2 4</text>
+        <text encoding="base64">ICs9IHgudG9Mb25nIC0+IA==</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQXJyYXkoIjEgMiAxIDIgNCIsICIyIikK</text>
+        <text encoding="base64">ICAgIHZhciBoYXNoQ250MiA9IG11dGFibGUuTWFwW0xvbmcsIEludF0oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4ocyJIZXJlICR4ICRuIikK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihoYXNoQ250Mi5nZXRPckVsc2UoeCwgMCkgPiAwKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoYXNoQ250MiAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGFzaENudDEsIGhhc2hDbnQyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY250ICs9IHggLT4gY250KHgpIC0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY250KHgpID0gY250KHgpIC0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGNvdW50VHJpcGxldHMoeCgwKS5zcGxpdCgiICIpLm1hcChfLnRyaW0udG9Mb25nKSwgeCgxKS50b0xvbmcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY250KHgpID0gY250KHgpIC0gMQo=</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
