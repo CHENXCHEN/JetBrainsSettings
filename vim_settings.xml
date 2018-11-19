@@ -186,12 +186,12 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" timestamp="1542200951501">
-        <mark key="'" line="310" column="70" />
-        <mark key="[" line="181" column="58" />
-        <mark key="]" line="181" column="63" />
-        <mark key="^" line="181" column="63" />
-        <mark key="." line="181" column="63" />
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" timestamp="1542634571105">
+        <mark key="'" line="313" column="70" />
+        <mark key="[" line="158" column="16" />
+        <mark key="]" line="158" column="19" />
+        <mark key="." line="158" column="19" />
+        <mark key="^" line="158" column="19" />
       </file>
       <file name="D:/code/hwork/ACMPractice/hackerrank/Practice/Interview Preparation Kit/Warm-up Challenges/Sock Merchant.scala" timestamp="1540715860424">
         <mark key="'" line="19" column="5" />
@@ -305,10 +305,10 @@
         <mark key="." line="90" column="9" />
         <mark key="^" line="90" column="9" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score21FunctionHandler.java" timestamp="1542200551932">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score21FunctionHandler.java" timestamp="1542634073045">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="121" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/code/hwork/ACM/settings.gradle.kts" timestamp="1540711318264">
         <mark key="[" line="9" column="23" />
@@ -471,43 +471,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs9IHgudG9Mb25nIC0+IA==</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBoYXNoQ250MiA9IG11dGFibGUuTWFwW0xvbmcsIEludF0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChzdWNjQ2hlY2tvdXROdW0gKiA2MCArIGNhcnROdW0gKiAxMCArIGNsaWNrTnVtKSkgLyB2aWV3TnVtKSAqIDg2NDAwICogMTQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihoYXNoQ250Mi5nZXRPckVsc2UoeCwgMCkgPiAwKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoQ250MiAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaGFzaENudDEsIGhhc2hDbnQyKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGNvdW50VHJpcGxldHMoeCgwKS5zcGxpdCgiICIpLm1hcChfLnRyaW0udG9Mb25nKSwgeCgxKS50b0xvbmcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihoYXNoQ250Mi5nZXRPckVsc2UoeCwgMCkgPiAwKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
