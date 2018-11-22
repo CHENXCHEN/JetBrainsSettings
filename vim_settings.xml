@@ -186,12 +186,12 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" timestamp="1542694887733">
-        <mark key="'" line="313" column="70" />
-        <mark key="[" line="158" column="16" />
-        <mark key="]" line="158" column="19" />
-        <mark key="." line="158" column="19" />
-        <mark key="^" line="158" column="19" />
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" timestamp="1542874425768">
+        <mark key="'" line="457" column="16" />
+        <mark key="[" line="277" column="65" />
+        <mark key="]" line="277" column="75" />
+        <mark key="." line="277" column="75" />
+        <mark key="^" line="277" column="75" />
       </file>
       <file name="D:/code/hwork/ACMPractice/hackerrank/Practice/Interview Preparation Kit/Warm-up Challenges/Sock Merchant.scala" timestamp="1540715860424">
         <mark key="'" line="19" column="5" />
@@ -305,10 +305,10 @@
         <mark key="." line="90" column="9" />
         <mark key="^" line="90" column="9" />
       </file>
-      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score21FunctionHandler.java" timestamp="1542795714688">
-        <mark key="[" line="153" column="23" />
-        <mark key="]" line="154" column="32" />
-        <mark key="." line="154" column="32" />
+      <file name="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score21FunctionHandler.java" timestamp="1542872846326">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="220" column="17" />
+        <mark key="." line="204" column="0" />
         <mark key="^" line="154" column="32" />
       </file>
       <file name="$USER_HOME$/code/hwork/ACM/settings.gradle.kts" timestamp="1540711318264">
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ParserPool.scala" />
       <jump line="7" column="33" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/code/work/BigdataScratch/src/main/scala/trigger/TimeOrCountTrigger.scala" />
@@ -469,46 +468,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/code/hwork/ACM/src/main/scala/hackerrank/Practice/InterviewPreparationKit/DictionariesAndHashmaps/CountTriplets/Solution.scala" />
+      <jump line="457" column="16" filename="$USER_HOME$/code/work/fordeal-search/fordeal-algorithm-console/src/main/java/com/fordeal/console/score/Score20FunctionHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE15SXRlbT4gbXlJdGVtcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvcihpbnQgaSA9IDA7aSA8IDEwMDtpKyspIHsKICAgICAgICAgICAgaW50IHNjb3JlID0gKGludCkoMSArIE1hdGgucmFuZG9tKCkgKiAoMTAwIC0gMSArIDEpKTsKICAgICAgICAgICAgaW50IGNyZWF0ZWRBdCA9IChpbnQpKDEgKyBNYXRoLnJhbmRvbSgpICogKDEwMDAgLSAxICsgMSkpOwogICAgICAgICAgICBNeUl0ZW0gbXlJdGVtID0gbmV3IE15SXRlbSgpOwogICAgICAgICAgICBteUl0ZW0uc2V0SWQoaSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRTY29yZShzY29yZSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRDcmVhdGVkQXQoY3JlYXRlZEF0KTsKICAgICAgICAgICAgbXlJdGVtcy5hZGQobXlJdGVtKTsKICAgICAgICB9Ci8vICAgICAgICBjb21wYXJlQ3JlYXRlZEF0KG15SXRlbXMpOwogICAgICAgIG15SXRlbXMuc29ydChDb21wYXJhdG9yLmNvbXBhcmluZyhNeUl0ZW06OmdldENyZWF0ZWRBdCkpOwogICAgICAgIGZvciAoTXlJdGVtIG15SXRlbToKICAgICAgICAgICAgIG15SXRlbXMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpZDogIiArIG15SXRlbS5nZXRJZCgpICsgIiBzY29yZTogIiArIG15SXRlbS5nZXRTY29yZSgpICsgIiBjcmVhdGVkX2F0OiAiICsgbXlJdGVtLmdldENyZWF0ZWRBdCgpKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Ci8vICAgICAgICBjb21wYXJlU2NvcmUobXlJdGVtcyk7CiAgICAgICAgbXlJdGVtcy5zb3J0KENvbXBhcmF0b3IuY29tcGFyaW5nKE15SXRlbTo6Z2V0U2NvcmUpKTsKICAgICAgICBmb3IgKE15SXRlbSBteUl0ZW06CiAgICAgICAgICAgICAgICBteUl0ZW1zKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaWQ6ICIgKyBteUl0ZW0uZ2V0SWQoKSArICIgc2NvcmU6ICIgKyBteUl0ZW0uZ2V0U2NvcmUoKSArICIgY3JlYXRlZF9hdDogIiArIG15SXRlbS5nZXRDcmVhdGVkQXQoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChzdWNjQ2hlY2tvdXROdW0gKiA2MCArIGNhcnROdW0gKiAxMCArIGNsaWNrTnVtKSkgLyB2aWV3TnVtKSAqIDg2NDAwICogMTQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHNjb3JlID0gKGludCkoMSArIE1hdGgucmFuZG9tKCkgKiAoMTAwIC0gMSArIDEpKTsKICAgICAgICAgICAgaW50IGNyZWF0ZWRBdCA9IChpbnQpKDEgKyBNYXRoLnJhbmRvbSgpICogKDEwMDAgLSAxICsgMSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE15SXRlbT4gbXlJdGVtcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvcihpbnQgaSA9IDA7aSA8IDEwMDtpKyspIHsKICAgICAgICAgICAgaW50IHNjb3JlID0gKGludCkoMSArIE1hdGgucmFuZG9tKCkgKiAoMTAwIC0gMSArIDEpKTsKICAgICAgICAgICAgaW50IGNyZWF0ZWRBdCA9IChpbnQpKDEgKyBNYXRoLnJhbmRvbSgpICogKDEwMDAgLSAxICsgMSkpOwogICAgICAgICAgICBNeUl0ZW0gbXlJdGVtID0gbmV3IE15SXRlbSgpOwogICAgICAgICAgICBteUl0ZW0uc2V0SWQoaSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRTY29yZShzY29yZSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRDcmVhdGVkQXQoY3JlYXRlZEF0KTsKICAgICAgICAgICAgbXlJdGVtcy5hZGQobXlJdGVtKTsKICAgICAgICB9Ci8vICAgICAgICBjb21wYXJlQ3JlYXRlZEF0KG15SXRlbXMpOwogICAgICAgIG15SXRlbXMuc29ydChDb21wYXJhdG9yLmNvbXBhcmluZyhNeUl0ZW06OmdldENyZWF0ZWRBdCkpOwogICAgICAgIGZvciAoTXlJdGVtIG15SXRlbToKICAgICAgICAgICAgIG15SXRlbXMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpZDogIiArIG15SXRlbS5nZXRJZCgpICsgIiBzY29yZTogIiArIG15SXRlbS5nZXRTY29yZSgpICsgIiBjcmVhdGVkX2F0OiAiICsgbXlJdGVtLmdldENyZWF0ZWRBdCgpKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Ci8vICAgICAgICBjb21wYXJlU2NvcmUobXlJdGVtcyk7CiAgICAgICAgbXlJdGVtcy5zb3J0KENvbXBhcmF0b3IuY29tcGFyaW5nKE15SXRlbTo6Z2V0U2NvcmUpKTsKICAgICAgICBmb3IgKE15SXRlbSBteUl0ZW06CiAgICAgICAgICAgICAgICBteUl0ZW1zKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaWQ6ICIgKyBteUl0ZW0uZ2V0SWQoKSArICIgc2NvcmU6ICIgKyBteUl0ZW0uZ2V0U2NvcmUoKSArICIgY3JlYXRlZF9hdDogIiArIG15SXRlbS5nZXRDcmVhdGVkQXQoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE15SXRlbT4gYWxsSXRlbXMgPSBuZXcgQXJyYXlMaXN0PE15SXRlbT4oKTsKICAgICAgICBmb3IoaW50IGkgPSAwO2kgPCAxMDA7aSsrKSB7CiAgICAgICAgICAgIGludCBzY29yZSA9IChpbnQpKDEgKyBNYXRoLnJhbmRvbSgpICogKDEwMCAtIDEgKyAxKSk7CiAgICAgICAgICAgIGludCBjcmVhdGVkQXQgPSAoaW50KSgxICsgTWF0aC5yYW5kb20oKSAqICgxMDAwIC0gMSArIDEpKTsKICAgICAgICAgICAgTXlJdGVtIG15SXRlbTsKICAgICAgICAgICAgbXlJdGVtID0gbmV3IE15SXRlbSgpOwogICAgICAgICAgICBteUl0ZW0uc2V0U2NvcmUoc2NvcmUpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlJdGVtID0gbmV3IE15SXRlbSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlQ3RyMyA9IChpbnQpICgoKChkb3VibGUpIChjYXJ0TnVtICogMTAgKyBjbGlja051bSkpIC8gdmlld051bSkgKiA4NjQwMCAqIDE0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXlJdGVtIG15SXRlbSA9IG5ldyBNeUl0ZW0oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlJdGVtLnNldFNjb3JlKDEwKTsKICAgICAgICAgICAgYWxsSXRlbXMuYWRkKG15SXRlbSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRTY29yZSg5MCk7CiAgICAgICAgICAgIGFsbEl0ZW1zLmFkZChteUl0ZW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihoYXNoQ250Mi5nZXRPckVsc2UoeCwgMCkgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXlJdGVtIG15SXRlbSA9IG5ldyBNeUl0ZW0oKTsKICAgICAgICAgICAgbXlJdGVtLnNldFNjb3JlKDEwKTsKICAgICAgICAgICAgYWxsSXRlbXMuYWRkKG15SXRlbSk7CiAgICAgICAgICAgIG15SXRlbS5zZXRTY29yZSg5MCk7CiAgICAgICAgICAgIGFsbEl0ZW1zLmFkZChteUl0ZW0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgbXlJdGVtLnNldFNjb3JlKDEwKTsKICAgICAgICAgYWxsSXRlbXMuYWRkKG15SXRlbSk7CiAgICAgICAgIG15SXRlbS5zZXRTY29yZSg5MCk7CiAgICAgICAgIGFsbEl0ZW1zLmFkZChteUl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
