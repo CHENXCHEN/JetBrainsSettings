@@ -337,12 +337,10 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemParser.scala" timestamp="1543473343295">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="22" />
+      <file name="$USER_HOME$/code/work/EventSink/src/main/scala/parsers/ItemParser.scala" timestamp="1543649709418">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/code/hwork/ACMPractice/src/main/scala/hackerrank/Practice/InterviewPreparationKit/Arrays/ArrayManipulation/Solution.scala" timestamp="1541854480004">
         <mark key="'" line="0" column="0" />
@@ -466,10 +464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oeC5hcHBseSgxMCkpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB4ID0gVmVjdG9yLmVtcHR5W0ludF0KICAgIHByaW50bG4oQ2FsLmFkZCgxKSkKICAgIHByaW50bG4oQ2FsLmFkZCgyKSkKICAgIHByaW50bG4oQ2FsLmFkZCgzKSkKICAgIHByaW50bG4oQ2FsLnN1bSgpKQogICAgcHJpbnRsbihDYWwuc3VtKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s +:= delta</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -478,31 +476,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oQ2FsLmFkZCgxKSkKICAgIHByaW50bG4oQ2FsLmFkZCgyKSkKICAgIHByaW50bG4oQ2FsLmFkZCgzKSkKICAgIHByaW50bG4oQ2FsLnN1bSgpKQogICAgcHJpbnRsbihDYWwuc3VtKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oeC5hcHBseSgxMCkpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB4ID0gVmVjdG9yLmVtcHR5W0ludF0KICAgIHByaW50bG4oQ2FsLmFkZCgxKSkKICAgIHByaW50bG4oQ2FsLmFkZCgyKSkKICAgIHByaW50bG4oQ2FsLmFkZCgzKSkKICAgIHByaW50bG4oQ2FsLnN1bSgpKQogICAgcHJpbnRsbihDYWwuc3VtKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG11dGFibGUuTXV0YWJsZUxpc3RbSW50XQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG11dGFibGUuTXV0YWJsZUxpc3QK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2JqZWN0IENhbCB7CiAgcHJpdmF0ZSB2YXIgcyA9IFZlY3Rvci5lbXB0eVtJbnRdCiAgZGVmIGFkZChkZWx0YTogSW50KSA9IHMgKzo9IGRlbHRhCiAgZGVmIHN1bSgpOkludCA9IHMuc3VtCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oeC5hcHBseSgxMCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG11dGFibGUuTXV0YWJsZUxpc3RbSW50XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IEJhc2V7CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7CiAgICBwcmludGxuKENhbC5hZGQoMSkpCiAgICBwcmludGxuKENhbC5hZGQoMikpCiAgICBwcmludGxuKENhbC5hZGQoMykpCiAgICBwcmludGxuKENhbC5zdW0oKSkKICAgIHByaW50bG4oQ2FsLnN1bSgpKQogIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odGhpcy5UQVJHRVRfVFlQRSwgdGhpcy5UVEwpCiAgICBwcmludGxuKHRoaXMuZ2V0Q2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIG11dGFibGUuTXV0YWJsZUxpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
